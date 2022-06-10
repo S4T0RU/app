@@ -1,8 +1,8 @@
 {
 
-  "Version": "1.0.3",
+  "Version": "1.0.4",
 
-  "ReleaseNotes": "✅ CONFIGURAÇÕES ATUALIZADAS ✅",
+  "ReleaseNotes": "✅ CHECKUSER ADICIONADO ✅",
 
   "UrlUpdate": "https://raw.githubusercontent.com/S4T0RU/app/main/update",
 
@@ -14,7 +14,7 @@
 
   "UrlTermos": "",
 
-  "CheckUser": "false",
+  "CheckUser": "true",
 
     "Udp": [
 
@@ -38,7 +38,7 @@
 
       "ServerIP": "msk.lbwebsites.online",
 
-      "CheckUser": "http://144.22.244.232:5454/checkUser",
+      "CheckUser": "http://144.22.244.232:8989/checkUser",
 
       "ServerPort": "22",
 
